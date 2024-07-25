@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Henderson\\Desktop\\Projetos\\Windows Forms Youtube\\Usuarios_bd_duas_tabelasV2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F1AE821F-08DD-4617-9A81-2314E129FAF2}|Usuarios_bd_duas_tabelasV2.csproj|c:\\users\\henderson\\desktop\\projetos\\windows forms youtube\\usuarios_bd_duas_tabelasv2\\class_endereco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1AE821F-08DD-4617-9A81-2314E129FAF2}|Usuarios_bd_duas_tabelasV2.csproj|solutionrelative:class_endereco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1AE821F-08DD-4617-9A81-2314E129FAF2}|Usuarios_bd_duas_tabelasV2.csproj|C:\\Users\\Henderson\\Desktop\\Projetos\\Windows Forms Youtube\\Usuarios_bd_duas_tabelasV2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1AE821F-08DD-4617-9A81-2314E129FAF2}|Usuarios_bd_duas_tabelasV2.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1AE821F-08DD-4617-9A81-2314E129FAF2}|Usuarios_bd_duas_tabelasV2.csproj|C:\\Users\\Henderson\\Desktop\\Projetos\\Windows Forms Youtube\\Usuarios_bd_duas_tabelasV2\\class_usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1AE821F-08DD-4617-9A81-2314E129FAF2}|Usuarios_bd_duas_tabelasV2.csproj|solutionrelative:class_usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1AE821F-08DD-4617-9A81-2314E129FAF2}|Usuarios_bd_duas_tabelasV2.csproj|C:\\Users\\Henderson\\Desktop\\Projetos\\Windows Forms Youtube\\Usuarios_bd_duas_tabelasV2\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1AE821F-08DD-4617-9A81-2314E129FAF2}|Usuarios_bd_duas_tabelasV2.csproj|solutionrelative:database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1AE821F-08DD-4617-9A81-2314E129FAF2}|Usuarios_bd_duas_tabelasV2.csproj|C:\\Users\\Henderson\\Desktop\\Projetos\\Windows Forms Youtube\\Usuarios_bd_duas_tabelasV2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F1AE821F-08DD-4617-9A81-2314E129FAF2}|Usuarios_bd_duas_tabelasV2.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Henderson\\Desktop\\Projetos\\Windows Forms Youtube\\Usuarios_bd_duas_tabelasV2\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Henderson\\Desktop\\Projetos\\Windows Forms Youtube\\Usuarios_bd_duas_tabelasV2\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T13:47:52.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Database.cs",
+              "DocumentMoniker": "C:\\Users\\Henderson\\Desktop\\Projetos\\Windows Forms Youtube\\Usuarios_bd_duas_tabelasV2\\Database.cs",
+              "RelativeDocumentMoniker": "Database.cs",
+              "ToolTip": "C:\\Users\\Henderson\\Desktop\\Projetos\\Windows Forms Youtube\\Usuarios_bd_duas_tabelasV2\\Database.cs",
+              "RelativeToolTip": "Database.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T00:53:17.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Class_Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\Henderson\\Desktop\\Projetos\\Windows Forms Youtube\\Usuarios_bd_duas_tabelasV2\\Class_Usuario.cs",
+              "RelativeDocumentMoniker": "Class_Usuario.cs",
+              "ToolTip": "C:\\Users\\Henderson\\Desktop\\Projetos\\Windows Forms Youtube\\Usuarios_bd_duas_tabelasV2\\Class_Usuario.cs",
+              "RelativeToolTip": "Class_Usuario.cs",
+              "ViewState": "AQIAAFMAAAAAAAAAAAAmwGMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T03:53:29.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Henderson\\Desktop\\Projetos\\Windows Forms Youtube\\Usuarios_bd_duas_tabelasV2\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Henderson\\Desktop\\Projetos\\Windows Forms Youtube\\Usuarios_bd_duas_tabelasV2\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T04:05:01.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class_Endereco.cs",
+              "DocumentMoniker": "C:\\Users\\Henderson\\Desktop\\Projetos\\Windows Forms Youtube\\Usuarios_bd_duas_tabelasV2\\Class_Endereco.cs",
+              "RelativeDocumentMoniker": "Class_Endereco.cs",
+              "ToolTip": "C:\\Users\\Henderson\\Desktop\\Projetos\\Windows Forms Youtube\\Usuarios_bd_duas_tabelasV2\\Class_Endereco.cs",
+              "RelativeToolTip": "Class_Endereco.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAcwEsAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T03:53:55.466Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
